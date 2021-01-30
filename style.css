@@ -128,3 +128,8 @@ nav ul li a:hover, a.active{
     margin-left: 35%;
     color: wheat;
 }
+.align {
+    display: flex;
+    margin-top: 5px;
+    
+}
